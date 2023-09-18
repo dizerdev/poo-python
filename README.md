@@ -1,2 +1,2 @@
 # poo-python
-Algoritmos de diversas áreas de Machine Learning e Inteligência Artificial
+Aulas de Programação Orientada a Objetos com Python
